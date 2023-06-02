@@ -12,7 +12,7 @@ All of these services has a free tier to some extent at the point of writing.
 Get the API keys for each of these services ready, and click the Colab link above to get started.
 
 ## Caution
-Eventhough none of these services require your payment info upon sign up, but you will use your free credits (OpenAI), or free hours/per months (AssemblyAI). I recommend Summarizing any podcast that less than 10 minutes in length first. 
+Eventhough none of these services require your payment info upon signing up, but you will use your free credits (OpenAI), or free hours/per months (AssemblyAI). I recommend summarizing any podcast that less than 10 minutes in length first. 
 
 ## Performance
 The most time consuming step is transcribing. It usually takes 1/3 of audio length to transcribe. E.g: 10 mins podcast = 3 mins of transcribing. There are newer services out there with better performance (Whisper, Deepgram, ...) , but I will re-visit this script when I have more time.
