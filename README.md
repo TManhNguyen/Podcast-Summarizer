@@ -8,7 +8,7 @@ We will use 3 services in this script:
 2. [AssemblyAI](https://www.assemblyai.com): Transcribe the sound file to text. 
 3. [OpenAI](https://openai.com/) GPT3.5 Turbo: Summarise the text above into bulleted point.
 <br>
-All of these services has free tier to some extent at the point of writing. 
+All of these services has a free tier to some extent at the point of writing. 
 Get the API keys for each of these services ready, and click the Colab link above to get started.
 
 ## Caution
