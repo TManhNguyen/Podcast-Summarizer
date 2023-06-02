@@ -7,7 +7,7 @@ We will use 3 services in this script:
 1. [Taddy](https://taddy.org/): Search the podcast database and retrieve the sound file URL. 
 2. [AssemblyAI](https://www.assemblyai.com): Transcribe the sound file to text. 
 3. [OpenAI](https://openai.com/) GPT3.5 Turbo: Summarise the text above into bulleted point.
-4. <br>
+<br>
 All of these services has free tier to some extent at the point of writing. 
 Get the API keys for each of these services ready, and click the Colab link above to get started.
 
